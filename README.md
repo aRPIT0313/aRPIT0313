@@ -21,8 +21,8 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🔗 [SNIP — ML URL Shortener](https://github.com/aRPIT0313/url-shortener) | Distributed URL shortener with Bloom filters, QR generation, geo analytics, ML click prediction & anomaly detection. | Python, Flask, MongoDB, scikit-learn, React |
 | 🏛️ [Murti Restoration Assistant](https://github.com/aRPIT0313/murti-restoration) | Multi-agent AI pipeline for restoring broken murtis using vision models, reference retrieval & Blender guidance. | Python, Streamlit, Gemini API, Blender |
+| 🔗 [SNIP — ML URL Shortener](https://github.com/aRPIT0313/url-shortener) | Distributed URL shortener with Bloom filters, QR generation, geo analytics, ML click prediction & anomaly detection. | Python, Flask, MongoDB, scikit-learn, React |
 | 📝 [Exam Portal](https://github.com/aRPIT0313/exam-portal) | Full-stack online exam system with JWT auth, role-based access, PDF reports, and real-time exam workflow. | React, Flask, MongoDB, JWT |
 | 💳 [Financial Fraud Detection](https://github.com/aRPIT0313/financial-fraud-detection) | Hybrid system — rule-based + fuzzy matching + ML — to detect fraudulent transactions in real time. | Python, scikit-learn, Flask |
 | 📧 [Email Spam Detection](https://github.com/aRPIT0313/emailspamdetection) | NLP pipeline (tokenization → stemming → TF-IDF) with Naive Bayes. 95% accuracy, deployed on Streamlit. | Python, NLTK, scikit-learn |
@@ -72,16 +72,7 @@
 - 🧩 Solved **440+ problems** on LeetCode
 - 📍 Mumbai, India
 
----
 
-## 📈 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aRPIT0313&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aRPIT0313&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
