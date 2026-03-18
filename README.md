@@ -21,8 +21,8 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🏛️ [Murti Restoration Assistant](https://github.com/aRPIT0313/murti-restoration) | Multi-agent AI pipeline for restoring broken murtis using vision models, reference retrieval & Blender guidance. | Python, Streamlit, Gemini API, Blender |
-| 🔗 [SNIP — ML URL Shortener](https://github.com/aRPIT0313/url-shortener) | Distributed URL shortener with Bloom filters, QR generation, geo analytics, ML click prediction & anomaly detection. | Python, Flask, MongoDB, scikit-learn, React |
+| 🏛️ [Murti Restoration Assistant](https://github.com/aRPIT0313/restoration) | Multi-agent AI pipeline for restoring broken murtis using vision models, reference retrieval & Blender guidance. | Python, Streamlit, Gemini API, Blender |
+| 🔗 [SNIP — ML URL Shortener](https://github.com/aRPIT0313/url-shortner) | Distributed URL shortener with Bloom filters, QR generation, geo analytics, ML click prediction & anomaly detection. | Python, Flask, MongoDB, scikit-learn, React |
 | 📝 [Exam Portal](https://github.com/aRPIT0313/online_exam) | Full-stack online exam system with JWT auth, role-based access, PDF reports, and real-time exam workflow. | React, Flask, MongoDB, JWT |
 | 💳 [Financial Fraud Detection](https://github.com/aRPIT0313/financial-fraud-detection) | Hybrid system — rule-based + fuzzy matching + ML — to detect fraudulent transactions in real time. | Python, scikit-learn, Flask |
 | 📧 [Email Spam Detection](https://github.com/aRPIT0313/emailspamdetection) | NLP pipeline (tokenization → stemming → TF-IDF) with Naive Bayes. 95% accuracy, deployed on Streamlit. | Python, NLTK, scikit-learn |
